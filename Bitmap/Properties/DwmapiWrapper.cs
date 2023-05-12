@@ -144,7 +144,6 @@ namespace Bitmap.Properties
             {
                 throw new ArgumentException("Invalid window handle");
             }
-
             RECT windowRect;
             if (!GetWindowRect(hwnd, out windowRect))
             {

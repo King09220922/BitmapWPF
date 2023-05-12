@@ -9,3 +9,14 @@ D:\WPF训练\Demo2\Bitmap\obj\Debug\Bitmap.csproj.GenerateResource.cache
 D:\WPF训练\Demo2\Bitmap\obj\Debug\Bitmap.csproj.CoreCompileInputs.cache
 D:\WPF训练\Demo2\Bitmap\obj\Debug\Bitmap.exe
 D:\WPF训练\Demo2\Bitmap\obj\Debug\Bitmap.pdb
+D:\WPFC#\BitmapWPF\Bitmap\bin\Debug\Bitmap.exe.config
+D:\WPFC#\BitmapWPF\Bitmap\bin\Debug\Bitmap.exe
+D:\WPFC#\BitmapWPF\Bitmap\bin\Debug\Bitmap.pdb
+D:\WPFC#\BitmapWPF\Bitmap\obj\Debug\Bitmap.csproj.AssemblyReference.cache
+D:\WPFC#\BitmapWPF\Bitmap\obj\Debug\Bitmap.csproj.SuggestedBindingRedirects.cache
+D:\WPFC#\BitmapWPF\Bitmap\obj\Debug\Bitmap.Form1.resources
+D:\WPFC#\BitmapWPF\Bitmap\obj\Debug\Bitmap.Properties.Resources.resources
+D:\WPFC#\BitmapWPF\Bitmap\obj\Debug\Bitmap.csproj.GenerateResource.cache
+D:\WPFC#\BitmapWPF\Bitmap\obj\Debug\Bitmap.csproj.CoreCompileInputs.cache
+D:\WPFC#\BitmapWPF\Bitmap\obj\Debug\Bitmap.exe
+D:\WPFC#\BitmapWPF\Bitmap\obj\Debug\Bitmap.pdb
