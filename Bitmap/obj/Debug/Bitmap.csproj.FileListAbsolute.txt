@@ -1,0 +1,11 @@
+D:\WPF训练\Demo2\Bitmap\bin\Debug\Bitmap.exe.config
+D:\WPF训练\Demo2\Bitmap\bin\Debug\Bitmap.exe
+D:\WPF训练\Demo2\Bitmap\bin\Debug\Bitmap.pdb
+D:\WPF训练\Demo2\Bitmap\obj\Debug\Bitmap.csproj.AssemblyReference.cache
+D:\WPF训练\Demo2\Bitmap\obj\Debug\Bitmap.csproj.SuggestedBindingRedirects.cache
+D:\WPF训练\Demo2\Bitmap\obj\Debug\Bitmap.Form1.resources
+D:\WPF训练\Demo2\Bitmap\obj\Debug\Bitmap.Properties.Resources.resources
+D:\WPF训练\Demo2\Bitmap\obj\Debug\Bitmap.csproj.GenerateResource.cache
+D:\WPF训练\Demo2\Bitmap\obj\Debug\Bitmap.csproj.CoreCompileInputs.cache
+D:\WPF训练\Demo2\Bitmap\obj\Debug\Bitmap.exe
+D:\WPF训练\Demo2\Bitmap\obj\Debug\Bitmap.pdb
